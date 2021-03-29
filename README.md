@@ -7,12 +7,14 @@ The purpose of this analysis is to determine the winner of the election, as well
 - Diana DeGette received 272,892 votes; winning with 73.8% of the total votes.
 - Charles Casper Stockham came in second place with 85,213 votes; 23% of the total votes.
 - Raymon Anthony Doane came in third with 11,606 votes; 3.1% of the total votes.
+
 ![Candidate Results](Resources/candidate_results.png)
 
 ### County Results:
 - Denver had the best voter turnout with 306,055 votes; 82.8% of the total votes.
 - Jefferson has the second highest turnout with 38,855 votes; 10.5% of the total votes.
 - Arapahoe has the lowest turnout with 24, 801 votes; 6.7% of the total votes.
+
 ![County Results](Resources/county_results.png)
 
 ## Election Summary
