@@ -23,3 +23,4 @@ Diana DeGette is the winner! Denver had a significantly higher turnout of voters
 ---
 ## Future Applications
 The code contained in this file can be used to analyze any future elections that are stored in the same format, regardless of how many voters there are, which counties are included, or which candidates are running. The code will find each unique county and candidate and generale a .txt file that will show the same comparisons as we have explored here. There will be total votes counted, all candidates and counties listed, and percentages calculated; no matter the size of the data. Furthermore, with a little bit of modification, the code could be used to search by ballot id number to quickly find which candidate was chosen on a specific ballot, and which county the voter is from.
+
